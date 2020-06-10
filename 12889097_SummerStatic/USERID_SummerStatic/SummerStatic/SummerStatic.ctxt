@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=SummerStatic
+comment0.text=\r\n\ This\ "Summer"\ class\ is\ a\ simple\ introduction\ to\r\n\ methods\ and\ variables\ /\ fields\ /\ private\ data\ members.\ \r\n\ \r\n\ @author\ Raymond\ Lister\r\n\ @version\ April\ 2015;\ a\ "static"\ version\ for\ a\ Lab\ Test\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=num
+comment2.target=void\ putNumber(int)
+comment2.text=\r\n\ Receives\ and\ processes\ a\ new\ number\ in\ the\ series\r\n\ \r\n\ ...\ remaining\ javadoc\ comment\ (if\ any)\ has\ been\ omitted\ from\ this\ skeleton\ ...\ \r\n
+comment3.params=
+comment3.target=void\ reset()
+comment3.text=\r\n\ Resets\ so\ all\ numbers\ previously\ forgotten.\ This\ is\r\n\ dangerous\ since\ average\ is\ now\ undefined.\r\n\ \r\n\ ...\ remaining\ javadoc\ comment\ (if\ any)\ has\ been\ omitted\ from\ this\ skeleton\ ...\ \r\n
+comment4.params=num
+comment4.target=void\ reset(int)
+comment4.text=\r\n\ Resets\ with\ the\ first\ number\ of\ a\ new\ series.\ This\ is\r\n\ safer\ reset\ since\ the\ average\ remains\ defined.\r\n\ \r\n\ ...\ remaining\ javadoc\ comment\ (if\ any)\ has\ been\ omitted\ from\ this\ skeleton\ ...\ \ \r\n
+comment5.params=
+comment5.target=int\ getSum()
+comment5.text=\r\n\ ...\ javadoc\ comment\ has\ been\ omitted\ from\ this\ skeleton\ ...\ \ \r\n
+comment6.params=
+comment6.target=int\ getCount()
+comment6.text=\r\n\ ...\ javadoc\ comment\ has\ been\ omitted\ from\ this\ skeleton\ ...\ \ \r\n
+comment7.params=
+comment7.target=double\ getAverage()
+comment7.text=\r\n\ @return\ \ \ \ \ The\ average\ of\ the\ integers\ received.\r\n
+numComments=8
